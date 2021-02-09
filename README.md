@@ -15,3 +15,7 @@ This project was created just for demo purpose for one of my client, do no deply
 
 
 Here i have used 'fruit-360' <a href="https://www.kaggle.com/moltean/fruits">dataset</a> for training the model and deployed the project on flask.
+
+
+
+After traing on fruit datasets I found that dataset is not good enough for training the model since almost all the images of each categories looks similar, you will get good accuracy but it wont help you in real time scenario.
